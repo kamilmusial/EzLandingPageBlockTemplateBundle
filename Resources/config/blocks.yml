@@ -1,0 +1,6 @@
+blocks:
+    template:
+        views:
+            basic:
+                template: EzSystemsLandingPageBlockTemplateBundle::template.html.twig
+                name: Basic Template Block view

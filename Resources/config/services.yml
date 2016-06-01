@@ -1,0 +1,5 @@
+services:
+    ez_systems.landing_page.block.template:
+        class: EzSystems\LandingPageBlockTemplateBundle\Block\TemplateBlock
+        tags:
+            - { name: landing_page_field_type.block_type, alias: template }
