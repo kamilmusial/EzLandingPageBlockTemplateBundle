@@ -35,7 +35,7 @@ class TemplateBlock extends AbstractBlockType
             'template', // Block type (unique)
             'Template', // Name of block
             'default', // Block category (currently unsupported)
-            'bundles/ezsystemslandingpagefieldtype/images/thumbnails/tag.svg', // icon for thumbnail
+            'bundles/ezsystemslandingpageblocktemplate/images/templateblock.svg', // icon for thumbnail
             [], // extra views that can be hardcoded
             [
                 new BlockAttributeDefinition(
