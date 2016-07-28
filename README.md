@@ -7,7 +7,7 @@ EzLandingPageBlockTemplateBundle contains template for new blocks for EzLandingP
 ## USAGE ##
 
 1. Clone this repository
-2. Enable it in `AppKernel.php` *(by adding a new element insite `registerBundles()` method)*
+2. Enable it in `AppKernel.php` *(by adding a new element inside the `registerBundles()` method)*
 ```php 
 new \EzSystems\LandingPageBlockTemplateBundle\EzSystemsLandingPageBlockTemplateBundle()
 ```
